@@ -6,8 +6,11 @@ import edu.illinois.cs.cs125.lib.mazemaker.Maze;
  * @see <a href="https://github.com/cs125-illinois/mazemaker">Mazemaker on GitHub</a>
  * @see <a href="https://cs125-illinois.github.io/mazemaker/">Mazemaker Documentation</a>
  * @see <a href="https://cs125.cs.illinois.edu/lab/2/#maze">Lab 2 Writeup</a>
+ *
+ * massman3@illinois.edu
+ * yep.
  */
-@SuppressWarnings("checkstyle:emptyblock")
+
 public class SolveMaze {
 
     /**
